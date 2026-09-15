@@ -1,0 +1,10 @@
+Charge Voice 1.4.1 (versionCode 6)
+Release installation: Success
+Flutter analyze: clean
+Flutter tests: 19 passed
+APK signature: verified
+Device: Xiaomi 5f2ab4b7
+App opened and Effects port controls displayed.
+ChargingService isForeground=true
+POST_NOTIFICATIONS granted=false
+App launch-triggered charging frame log: 220 ms (not a physical cable/sleep timing measurement).

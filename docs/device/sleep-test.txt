@@ -1,0 +1,5 @@
+Test: simulated charger connection on Xiaomi Android 13
+mWakefulness=Asleep
+mWakefulness=Awake
+mCurrentFocus=Window{6ae009e u0 com.chargevoice.charge_voice/com.chargevoice.charge_voice.ChargingAnimationActivity}
+Real battery readings restored in finally block.
